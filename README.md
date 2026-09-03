@@ -1,6 +1,5 @@
 # Fake-news-detector
 Detects fake vs. real news articles using NLP + Logistic Regression, with a bonus digital-signature verification demo.
-# Fake News Detection
 
 A machine learning project that classifies news articles as **Real** or **Fake** using natural language processing (NLP) and a Logistic Regression classifier. The project also includes an experimental module demonstrating how digital signatures (RSA + SHA-256) could be used to cryptographically verify the authenticity of a news article.
 
